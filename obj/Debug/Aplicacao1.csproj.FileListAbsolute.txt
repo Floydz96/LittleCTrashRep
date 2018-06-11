@@ -1,0 +1,7 @@
+C:\Users\gusta\source\csharp\Aplicacao1\bin\Debug\Aplicacao1.exe.config
+C:\Users\gusta\source\csharp\Aplicacao1\bin\Debug\Aplicacao1.exe
+C:\Users\gusta\source\csharp\Aplicacao1\bin\Debug\Aplicacao1.pdb
+C:\Users\gusta\source\csharp\Aplicacao1\obj\Debug\Aplicacao1.csprojAssemblyReference.cache
+C:\Users\gusta\source\csharp\Aplicacao1\obj\Debug\Aplicacao1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\csharp\Aplicacao1\obj\Debug\Aplicacao1.exe
+C:\Users\gusta\source\csharp\Aplicacao1\obj\Debug\Aplicacao1.pdb
